@@ -9,6 +9,12 @@
 2. Tammy Xaypraseuth
 3. Carlos Ramirez
 
+**Supervised By:** Dr. Mohammad Pourhomayoun
+
+**Teaching Assistants (TAs):**
+- Ashkan Aledavoud
+- Ly Jacky Nhiayi
+
 ## Overview
 
 This GitHub repository hosts the code and documentation for the project "Identifying High-Risk Patients for Targeted Prevention and Intervention," a part of the Data Science 4661 course. The primary objective of this project is to develop a predictive model that identifies patients at high risk of medical complications by leveraging the knowledge and skills acquired during the course.
