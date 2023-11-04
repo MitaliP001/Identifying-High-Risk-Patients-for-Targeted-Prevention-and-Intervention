@@ -1,6 +1,6 @@
 # Identifying High-Risk Patients for Targeted Prevention and Intervention
 
-![patient-treatment-classification](https://github.com/MitaliP001/Identifying-High-Risk-Patients-for-Targeted-Prevention-and-Intervention/blob/assets/patient-treatment-classification.png)
+![patient-treatment-classification](https://github.com/MitaliP001/Identifying-High-Risk-Patients-for-Targeted-Prevention-and-Intervention/blob/main/assets/patient-treatment-classification.png)
 
 Programming Tools : Python in Jupyter Notebook
 
