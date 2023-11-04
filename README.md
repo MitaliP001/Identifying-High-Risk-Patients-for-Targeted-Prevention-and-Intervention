@@ -4,6 +4,16 @@
 
 Programming Tools : Python in Jupyter Notebook
 
+## Problem Statement
+
+The healthcare industry faces a growing need to identify high-risk patients who are more likely to develop medical complications. This project aims to address this challenge by leveraging data science and machine learning techniques to predict and target prevention and intervention efforts effectively. Our primary objective is to develop a predictive model that can:
+
+- Identify patients at high risk of medical complications.
+- Prioritize and tailor prevention and intervention strategies based on individual patient characteristics.
+- Contribute to improved patient outcomes and resource allocation within the healthcare system.
+
+This project will play a crucial role in supporting healthcare providers and policymakers in their efforts to improve patient care and reduce healthcare costs.
+
 
 # Dataset: Patient Treatment Classification (training_set.csv)
 
