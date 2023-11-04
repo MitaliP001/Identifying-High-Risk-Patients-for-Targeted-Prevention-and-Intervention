@@ -4,7 +4,6 @@
 
 Programming Tools : Python in Jupyter Notebook
 
-Dataset : Patient Treatment Classification (training_set.csv)
 
 # Dataset: Patient Treatment Classification (training_set.csv)
 
