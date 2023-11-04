@@ -6,6 +6,16 @@ Programming Tools : Python in Jupyter Notebook
 
 Dataset : Patient Treatment Classification (training_set.csv)
 
+# Dataset: Patient Treatment Classification (training_set.csv)
+
+| HAEMATOCRIT | HAEMOGLOBINS | ERYTHROCYTE | LEUCOCYTE | THROMBOCYTE | MCH | MCHC | MCV | AGE | SEX | SOURCE |
+|------------|--------------|------------|----------|------------|-----|------|-----|-----|-----|--------|
+| 33.8       | 11.1         | 4.18       | 4.6      | 150        | 26.6| 32.8 | 80.9| 33  | F   | 1      |
+| 44.6       | 14.0         | 6.86       | 6.3      | 232        | 20.4| 31.4 | 65.0| 36  | M   | 0      |
+| 42.9       | 14.0         | 4.57       | 6.2      | 336        | 30.6| 32.6 | 93.9| 70  | F   | 0      |
+| 41.9       | 14.4         | 4.67       | 3.5      | 276        | 30.8| 34.4 | 89.7| 18  | F   | 0      |
+| 40.6       | 13.3         | 4.85       | 14.9     | 711        | 27.4| 32.8 | 83.7| 36  | M   | 0      |
+
 ## Team Information
 
 **Team Name:** _HealthRisk Analysts_
