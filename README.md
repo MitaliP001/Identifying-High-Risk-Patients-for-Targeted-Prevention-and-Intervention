@@ -87,5 +87,8 @@ The goal of the "Identifying High-Risk Patients for Targeted Prevention and Inte
 
 - [KNN Feature Importance Notebook](/output/knn_feature_importance.ipynb)
 
+![KNN Feature Importance](assets/knn_feature_importance.png)
+
+
 
 Feel free to explore our project's code, documentation, and insights. If you have any questions or feedback, please don't hesitate to get in touch.
