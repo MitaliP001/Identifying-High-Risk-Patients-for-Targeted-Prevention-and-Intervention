@@ -52,4 +52,9 @@ Ethical and legal aspects are pivotal when working with sensitive medical data. 
 
 The goal of the "High-Risk Patient Identification for Targeted Prevention and Intervention" project is to develop a robust predictive model using a comprehensive dataset of patient records. The selected algorithm will be rigorously evaluated and, if applicable, deployed in a real healthcare setting. Throughout the project, we prioritize thorough documentation and unwavering adherence to ethical and legal considerations.
 
+## Additional Resources
+
+- [KNN Feature Importance Notebook](/output/knn_feature_importance.ipynb)
+
+
 Feel free to explore our project's code, documentation, and insights. If you have any questions or feedback, please don't hesitate to get in touch.
