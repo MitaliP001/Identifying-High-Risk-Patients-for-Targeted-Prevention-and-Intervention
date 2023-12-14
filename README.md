@@ -62,6 +62,49 @@ Our approach follows a structured data science workflow:
 
 - **Model Deployment (optional)**: If deemed appropriate, the chosen model can be deployed in a real healthcare setting to predict medical complications in new patient data. This process, however, will strictly adhere to relevant data privacy and ethical guidelines.
 
+## Machine Learning Algorithms
+
+### Decision Tree Classifier
+Decision Trees are used for feature importance analysis and understanding decision-making processes.
+
+### Random Forest Classifier
+Random Forest is an ensemble learning algorithm implemented for improved predictive performance.
+
+### Logistic Regression
+Logistic Regression is employed for binary classification tasks, providing interpretability of model coefficients.
+
+### Linear Regression
+Linear Regression is a regression algorithm used for predicting continuous numeric outcomes.
+
+### K-Nearest Neighbors (KNN)
+K-Nearest Neighbors is utilized for pattern recognition and classification.
+
+## Model Comparison
+
+### ROC Curve
+
+Receiver Operating Characteristic (ROC) curves are utilized to compare the performance of classification algorithms.
+
+- [ROC Comparison Notebook](/patient_treatment_classification_ROC_comparison_v1.ipynb)
+
+![ROC Curve](assets/roc.png)
+
+## Cross-Validation Results
+
+The machine learning model's performance was evaluated using cross-validation. The results are as follows:
+
+- **Accuracy:** 0.75 (+/- 0.02)
+
+This indicates the mean accuracy and the 95% confidence interval based on the cross-validation results.
+
+[Cross-Validation Notebook](/patient_treatment_cross_validation_result.ipynb) 
+
+### Results and Comparative Analysis
+The accuracy scores obtained from each algorithm are compared, and the most effective algorithm is identified.
+
+![Histogram of Accuracy Scores](assets/histogram.png)
+
+
 ## Documentation
 
 This project is accompanied by comprehensive documentation that includes:
@@ -83,26 +126,10 @@ Ethical and legal aspects are pivotal when working with sensitive medical data. 
 
 The goal of the "Identifying High-Risk Patients for Targeted Prevention and Intervention" project is to develop a robust predictive model using a comprehensive dataset of patient records. The selected algorithm will be rigorously evaluated and, if applicable, deployed in a real healthcare setting. Throughout the project, we prioritize thorough documentation and unwavering adherence to ethical and legal considerations.
 
-## Model Comparison
 
-### ROC Curve
+## Feature Importance Analysis
 
-- [ROC Comparison Notebook](/patient_treatment_classification_ROC_comparison_v1.ipynb)
-
-![ROC Curve](assets/roc.png)
-
-## Cross-Validation Results
-
-The machine learning model's performance was evaluated using cross-validation. The results are as follows:
-
-- **Accuracy:** 0.75 (+/- 0.02)
-
-This indicates the mean accuracy and the 95% confidence interval based on the cross-validation results.
-
-[Cross-Validation Notebook](/patient_treatment_cross_validation_result.ipynb) 
-
-
-## Additional Resources
+In-depth analysis of feature importance is conducted to interpret the decision-making processes of the models.
 
 - [KNN Feature Importance Notebook](/output/knn_feature_importance.ipynb)
 
