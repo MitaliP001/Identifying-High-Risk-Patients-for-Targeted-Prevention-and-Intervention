@@ -112,4 +112,16 @@ This indicates the mean accuracy and the 95% confidence interval based on the cr
 
 ![Random Forest Feature Importance](assets/random_forest_feature_importance.png)
 
+- [Decision Tree Feature Importance Notebook](/output/decision_tree_feature_importance.ipynb)
+
+![Decision Tree Feature Importance](assets/decision_tree_feature_importancee.png)
+
+- [Logistic Regression Feature Importance Notebook](/output/logistic_regression_feature_importance.ipynb)
+
+![Logistic Regression Feature Importance](assets/logistic_regression_feature_importance.png)
+
+- [Linear Regression Feature Importance Notebook](/output/linear_regression_feature_importance.ipynb)
+
+![Linear Regression Feature Importance](assets/linear_regression_feature_importance.png)
+
 Feel free to explore our project's code, documentation, and insights. If you have any questions or feedback, please don't hesitate to get in touch.
