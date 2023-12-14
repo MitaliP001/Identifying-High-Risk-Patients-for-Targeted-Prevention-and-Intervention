@@ -108,6 +108,8 @@ This indicates the mean accuracy and the 95% confidence interval based on the cr
 
 ![KNN Feature Importance](assets/knn_feature_importance.png)
 
+- [Random Forest Feature Importance Notebook](/output/random_forest_feature_importance.ipynb)
 
+![Random Forest Feature Importance](assets/random_forest_feature_importance.png)
 
 Feel free to explore our project's code, documentation, and insights. If you have any questions or feedback, please don't hesitate to get in touch.
