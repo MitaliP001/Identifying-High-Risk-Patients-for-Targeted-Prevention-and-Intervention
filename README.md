@@ -83,6 +83,15 @@ Ethical and legal aspects are pivotal when working with sensitive medical data. 
 
 The goal of the "Identifying High-Risk Patients for Targeted Prevention and Intervention" project is to develop a robust predictive model using a comprehensive dataset of patient records. The selected algorithm will be rigorously evaluated and, if applicable, deployed in a real healthcare setting. Throughout the project, we prioritize thorough documentation and unwavering adherence to ethical and legal considerations.
 
+## Model Comparison
+
+### ROC Curve
+
+- [ROC Comparison Notebook](/patient_treatment_classification_ROC_comparison_v1.ipynb)
+
+![ROC Curve](assets/roc.png)
+
+
 ## Additional Resources
 
 - [KNN Feature Importance Notebook](/output/knn_feature_importance.ipynb)
