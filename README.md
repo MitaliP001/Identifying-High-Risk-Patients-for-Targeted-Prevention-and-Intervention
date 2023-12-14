@@ -91,6 +91,16 @@ The goal of the "Identifying High-Risk Patients for Targeted Prevention and Inte
 
 ![ROC Curve](assets/roc.png)
 
+## Cross-Validation Results
+
+The machine learning model's performance was evaluated using cross-validation. The results are as follows:
+
+- **Accuracy:** 0.75 (+/- 0.02)
+
+This indicates the mean accuracy and the 95% confidence interval based on the cross-validation results.
+
+[Cross-Validation Notebook](/patient_treatment_cross_validation_result.ipynb) 
+
 
 ## Additional Resources
 
