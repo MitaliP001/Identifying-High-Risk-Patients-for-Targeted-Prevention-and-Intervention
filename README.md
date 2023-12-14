@@ -114,7 +114,7 @@ This indicates the mean accuracy and the 95% confidence interval based on the cr
 
 - [Decision Tree Feature Importance Notebook](/output/decision_tree_feature_importance.ipynb)
 
-![Decision Tree Feature Importance](assets/decision_tree_feature_importancee.png)
+![Decision Tree Feature Importance](assets/decision_tree_feature_importance.png)
 
 - [Logistic Regression Feature Importance Notebook](/output/logistic_regression_feature_importance.ipynb)
 
