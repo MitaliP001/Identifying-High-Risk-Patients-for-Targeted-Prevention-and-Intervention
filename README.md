@@ -79,6 +79,9 @@ Linear Regression is a regression algorithm used for predicting continuous numer
 ### K-Nearest Neighbors (KNN)
 K-Nearest Neighbors is utilized for pattern recognition and classification.
 
+### Support Vector Machine (SVM)
+Support Vector Machine is employed for classification tasks, achieving an accuracy of 69.18%.
+
 ## Model Comparison
 
 ### ROC Curve
